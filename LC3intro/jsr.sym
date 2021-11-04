@@ -1,0 +1,15 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	Option            3004
+//	Addition          3011
+//	SaveR7            3013
+//	End_Main          3010
+//	Input1            3001
+//	Input2            3002
+//	Main              3008
+//	BitAnd            301A
+//	Output            3003
+//	Subtraction       3014
+//	Functions         3005

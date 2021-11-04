@@ -1,0 +1,4 @@
+SPHERE, radius = 2.00000, volume = 33.51033.
+CUBE, side = 3.00000, volume = 27.00000.
+TETRAHEDRON, side = 4.00000, volume = 7.54246.
+CYLINDER, radius = 5.00000, height = 6.00000, volume = 471.23895.

@@ -1,0 +1,13 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	copy_loop         3012
+//	Eight             3005
+//	Result            3003
+//	shift_loop        300E
+//	copy              3007
+//	Mask              3006
+//	One               3004
+//	Param             3002
+//	do                3015
